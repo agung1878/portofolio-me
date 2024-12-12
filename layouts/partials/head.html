@@ -23,6 +23,7 @@
     ></script>
 
     {{ $styles := resources.Get "css/output.css" | minify }}
+    <link rel="stylesheet" href="{{ $styles.RelPermalink }}?v={{ now.Unix }}">
     <link
         rel="stylesheet"
         href="{{ $styles.RelPermalink }}"
