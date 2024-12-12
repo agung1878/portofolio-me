@@ -1,0 +1,69 @@
+firstname: Abdul Rahman
+lastname: Agung
+subheader: Java Developer
+resume: <Link to your resume document>
+
+social:
+  - link: <Link to social>
+    svg: linkedin.svg
+  - link: #
+    svg: github.svg
+about:
+  description: As a dedicated Java developer with over 3+ years of experience, I specialize in building scalable, robust applications using Spring Boot and microservices. With a keen eye for clean code and design patterns, I thrive on solving complex challenges and delivering impactful solutions. Currently seeking opportunities to contribute to innovative projects that leverage Java and cutting-edge technologies.
+
+  skills:
+    - name: Java
+      svg: java.svg
+    - name: Spring
+      svg: spring.svg
+    - name: MySql
+      svg: mysql.svg
+    - name: PostgreSql
+      svg: postgresql.svg
+    - name: MongoDB
+      svg: mongodb.svg
+    - name: Hugo
+      svg: hugo.svg
+    - name: TailwindCss
+      svg: tailwindcss.svg
+    - name: HTML
+      svg: html.svg
+    - name: CSS
+      svg: css.svg
+    - name: JavaScript
+      svg: javascript.svg
+    - name: Docker
+      svg: docker.svg
+    - name: Git
+      svg: git.svg
+
+experience:
+  - company: PT. Artivisi Intermedia
+    title: Full-Stack
+    description: Optimised frontoffice web portal, resolve production bugs and introducing new feature using React, TypeScript, and Stylus. Additionally, developed experimental features for a React Native app which focuses on cross-platform performance with stakeholder feedbacks.
+    startDate: 2022-01-01
+    endDate: 2022-01-01
+
+projects:
+  - title: Generali Microsite
+    projectDate: 2022-01-01
+    description: PT Asuransi Jiwa Generali Indonesia adalah bagian dari Generali Group, yaitu sebuah grup perusahaan penyedia asuransi terkemuka yang didirikan pada tahun 1831 di Trieste, Italia. Saat ini, Generali Group sudah menjadi salah satu grup bisnis utama dalam industri asuransi global - sebuah sektor strategis yang sangat penting bagi pertumbuhan, perkembangan dan kesejahteraan masyarakat modern.
+    skills:
+      - name: MySql
+        svg: mysql.svg
+  - title: Orbit Stevedoring PTB
+    projectDate: 2022-01-01
+    description: Healcare system based in Indonesia
+    skills:
+      - name: MySql
+        svg: mysql.svg
+
+actions:
+  - title: GitHub Profile
+    subtitle: More projects
+    button: "agung878"
+    link: <Link to GitHub>
+  - title: Get In Touch
+    subtitle: "Contact me"
+    button: "Email"
+    link: mailto:<Your Email>
